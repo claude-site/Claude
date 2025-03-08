@@ -13,7 +13,7 @@
 
 ## 什么是 Claude 中文版？
 
-[**Claude 中文版**](https://chat.yixiaai.com) 是 Anthropic的 Cladue模型的中文版本，专为中文用户设计，提供更流畅、更精准的 智能AI对话。
+[**Claude 中文版**](https://chat.yixiaai.com) 是 Anthropic的 Claude 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 智能AI对话。
 
 相较于官网，**Claude 中文版**在以下方面更适合国内用户：
 
