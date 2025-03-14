@@ -7,7 +7,7 @@
 
 **Claude 中文版入口：[chat.yixiaai.com](https://chat.yixiaai.com)**
 
-**Claude 官网国内入口：[lanjing.ai](https://www.yixiaai.com)** 
+**Claude 官网国内入口：[chat.lanjing.ai](https://chat.lanjing.ai)** 
 
 ---
 
