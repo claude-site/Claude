@@ -39,7 +39,7 @@
 4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
    简单易用的 ChatGPT-4 镜像，快速访问，不需注册。
 
-5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
+5. **鲸鱼AI ([lanjing.ai](https://lanjing.ai/))**  
    **免费服务**，支持 Grok-3、GPT-4、4o，提供多元功能。
 
 
