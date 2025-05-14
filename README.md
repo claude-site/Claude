@@ -7,7 +7,7 @@
 
 **Claude 中文版入口：[chat.lanjing.pro](https://chat.lanjing.pro)**
 
-**Claude 官网国内入口：[chat.yixiaai.com](https://chat.xsimple.top)** 
+**Claude 官网国内入口：[chat.yixiaai.com](https://xsimplechat.com)** 
 
 ---
 
@@ -27,7 +27,7 @@
 
 以下是我们精选的国内优质 **Claude 中文版镜像网站**，无需翻墙即可使用：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.xsimple.top/))**   
+1. **一下AI ([chat.yixiaai.com](https://xsimplechat.com/))**   
    **Claude 中文版**，提供支持 Claude-3.7-sonnet、Claude-3.5、GPT-o1、o3、Groq-3 及 DeepSeek R1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
 2. **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**  
