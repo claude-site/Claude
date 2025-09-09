@@ -1,9 +1,9 @@
 # Claude 国内使用指南~ （最强 Claude 4，稳定好用~）【2025年9月更新】
 
-> 更新：**2025-09-04**     
+> 更新：**2025-09-12**     
 
 国内能轻松使用的 [**Claude 中文版**](https://chat.lanjingai.org) ，**无需翻墙**，**支持 Claude 4、Claude 3.7 及中文版功能**    
-本指南提供 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://chat.lanjingai.org)、[**Claude 国内入口**](https://chat.xsimple.top)、[**Claude 官网镜像**](https://chat.yixiaai.com)和详细使用教程，帮助您快速使用上 Claude~
+本指南提供 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://chat.lanjingai.org)、[**Claude 国内入口**](https://xsimplechat.com)、[**Claude 官网镜像**](https://chat.yixiaai.com)和详细使用教程，帮助您快速使用上 Claude~
 
 **Claude 中文版入口：[chat.lanjingai.org](https://chat.lanjingai.org)**   
 **Claude 官网国内入口：[chat.yixiaai.com](https://xsimplechat.com)** 
